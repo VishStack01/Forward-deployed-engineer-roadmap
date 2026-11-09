@@ -193,6 +193,10 @@ No, and be careful of anyone who promises one. What you get is shipped work and 
 
 Found a broken link, an outdated fact or a better primary source? Open an issue or a pull request. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
+## Credits
+
+Several FDE terms and the warning signs in this repo are adapted from [Awesome-FDE-Roadmap](https://github.com/pierpaolo28/Awesome-FDE-Roadmap) by Pier Paolo Ippolito (MIT License, Copyright (c) 2026 Pier Paolo Ippolito). Go read it too: it's excellent on the consulting side and air-gapped deployments.
+
 ## License
 
 [CC BY 4.0](LICENSE). Share and adapt with credit and a link back.

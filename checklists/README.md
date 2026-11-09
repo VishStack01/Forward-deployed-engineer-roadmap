@@ -15,6 +15,8 @@
 - "We don’t need a project manager on our side." The project will lose direction without a named counterpart.
 - "Can we just run this on-prem for now?" Usually signals a deeper trust problem that will block the project later, not a small infrastructure preference.
 
+*Several FDE terms and the warning signs in this repo are adapted from [Awesome-FDE-Roadmap](https://github.com/pierpaolo28/Awesome-FDE-Roadmap) by Pier Paolo Ippolito (MIT License, Copyright (c) 2026 Pier Paolo Ippolito).*
+
 ### A typical engagement timeline
 
 | When | What happens |

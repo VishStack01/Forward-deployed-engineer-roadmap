@@ -28,6 +28,8 @@ Plain-English definitions of the words you will hear in your first client meetin
 
 **Cost of Inaction (CoI).** The argument for urgency: quantifying what the client loses every day they do not ship the solution. Often more persuasive to executives than a feature list.
 
+*Several FDE terms and the warning signs in this repo are adapted from [Awesome-FDE-Roadmap](https://github.com/pierpaolo28/Awesome-FDE-Roadmap) by Pier Paolo Ippolito (MIT License, Copyright (c) 2026 Pier Paolo Ippolito).*
+
 ## AI engineering
 
 **Token.** The unit a model reads and writes; roughly three-quarters of an English word. Pricing, limits and speed are all counted in tokens.
