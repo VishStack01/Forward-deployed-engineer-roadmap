@@ -1,0 +1,9 @@
+{
+  "title": "Forward Deployed Engineer Roadmap: a 16-week, open-source study plan",
+  "upload_type": "lesson",
+  "description": "A free, week-by-week roadmap to the Forward Deployed Engineer (FDE) role: 16 weekly pages with primary-source resources and self-check questions, an FDE interview guide, six AI system designs with diagrams, 25 portfolio project ideas, production checklists and a glossary. Licensed CC BY 4.0. Companion website: https://zero-to-fde-90-days.site/forward-deployed-engineer-roadmap",
+  "creators": [{"name": "Chakravarthula, Venkata Vishnu Vardhan Raju"}],
+  "license": "cc-by-4.0",
+  "keywords": ["forward deployed engineer", "FDE", "AI engineering", "RAG", "AI agents", "LLM evaluation", "curriculum"],
+  "related_identifiers": [{"identifier": "https://zero-to-fde-90-days.site/forward-deployed-engineer-roadmap", "relation": "isSupplementedBy", "scheme": "url"}]
+}
