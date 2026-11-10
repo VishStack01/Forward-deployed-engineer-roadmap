@@ -5,6 +5,16 @@ type: dataset
 authors:
   - family-names: "Chakravarthula"
     given-names: "Venkata Vishnu Vardhan Raju"
+version: "1.0.0"
+date-released: "2026-11-10"
+doi: "10.5281/zenodo.24119708"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.24119708"
+    description: "Concept DOI, all versions"
+  - type: doi
+    value: "10.5281/zenodo.24119709"
+    description: "v1.0.0"
 license: CC-BY-4.0
 repository-code: "https://github.com/VishStack01/Forward-deployed-engineer-roadmap"
 url: "https://zero-to-fde-90-days.site/forward-deployed-engineer-roadmap"

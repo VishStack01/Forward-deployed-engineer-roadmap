@@ -8,6 +8,7 @@
 <a href="LICENSE"><img src="https://img.shields.io/badge/license-CC%20BY%204.0-F8D838?style=flat-square&labelColor=11100D" alt="License CC BY 4.0"></a>
 <img src="https://img.shields.io/badge/weeks-16-F87028?style=flat-square&labelColor=11100D" alt="16 weeks">
 <img src="https://img.shields.io/badge/lessons-66-F87028?style=flat-square&labelColor=11100D" alt="66 lessons">
+<a href="https://doi.org/10.5281/zenodo.24119708"><img src="https://zenodo.org/badge/1451500586.svg" alt="DOI 10.5281/zenodo.24119708"></a>
 <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-F8D838?style=flat-square&labelColor=11100D" alt="PRs welcome"></a>
 </p>
 
@@ -192,6 +193,14 @@ No, and be careful of anyone who promises one. What you get is shipped work and 
 ## Contributing
 
 Found a broken link, an outdated fact or a better primary source? Open an issue or a pull request. See [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## How to cite
+
+This roadmap is archived on Zenodo: [doi.org/10.5281/zenodo.24119708](https://doi.org/10.5281/zenodo.24119708). That DOI always points to the latest version; v1.0.0 is [10.5281/zenodo.24119709](https://doi.org/10.5281/zenodo.24119709).
+
+> Chakravarthula, V. V. V. R. (2026). *Forward Deployed Engineer Roadmap: a 16-week, open-source study plan* (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.24119708
+
+GitHub's "Cite this repository" button gives the same citation in APA and BibTeX, from [CITATION.cff](CITATION.cff).
 
 ## Credits
 
